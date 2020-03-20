@@ -7,7 +7,7 @@
     width: 50%;
     margin: auto;
     background-color: #000000;
-	color: white;
+	color: black;
   }
 
   .header {
@@ -66,12 +66,13 @@
     text-align: left;
     padding: 8px;
     border-bottom: 1px solid #c4e9ff;
+	  color: black;
   }
   
   
   th {
     background-color: #003366;
-    color: white;
+    color: black;
   }
 
 .box{
@@ -107,7 +108,7 @@ margin: 0 auto;
   background: transparent;
   border: 0px;
   padding: 12px;
-  color: #f1f1f1;
+  color: #f31222;
   width: 70%;
 }
 
@@ -116,7 +117,7 @@ margin: 0 auto;
   text-align: center;
   padding: 10px;
   border-radius: 50px;
-  color: #f1f1f1;
+  color: #f31222;
   cursor: pointer;
   text-transform: uppercase;
 	position: absolute;
@@ -147,7 +148,7 @@ input[type=text], select {
 
 input[type=submit] {
   width: 10%;
-  background-color: #4CAF50;
+  background-color: #f31222;
   color: white;
   padding: 14px 20px;
   margin: 8px 45%;
