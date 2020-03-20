@@ -10,7 +10,7 @@ $google_client->setClientId('910542507778-2hij5mionnfnmstepbh692b9dse51fs4.apps.
 
 $google_client->setClientSecret('hQ-03XkGGaxyPPXZCOqdt8Ae');
 
-$google_client->setRedirectUri('https://maja-etact.herokuapp.com/index.php');
+$google_client->setRedirectUri('https://ehzdf.herokuapp.com');
 
 $google_client->addScope('email');
 
