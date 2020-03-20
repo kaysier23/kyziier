@@ -6,9 +6,9 @@ require_once 'vendor/autoload.php';
 
 $google_client = new Google_Client();
 
-$google_client->setClientId('910542507778-2hij5mionnfnmstepbh692b9dse51fs4.apps.googleusercontent.com');
+$google_client->setClientId('831814022834-hag6q8pvc4vasdppihs0ppvdgfa8j676.apps.googleusercontent.com');
 
-$google_client->setClientSecret('hQ-03XkGGaxyPPXZCOqdt8Ae');
+$google_client->setClientSecret('NxduNzGGdDeIpzvkZJsX42jN');
 
 $google_client->setRedirectUri('https://ehzdf.herokuapp.com');
 
