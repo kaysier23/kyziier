@@ -1,9 +1,9 @@
 <?php 
 $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET['navigation']: '';
 
-  include('google-confirmation.php');
+  include('google_confirmation.php');
   if($login_button == true){
-    include('facebook-confirmation.php');
+    include('facebook_confirmation.php');
   }
 
 ?>
