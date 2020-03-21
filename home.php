@@ -1,5 +1,7 @@
 <h1>Welcome User</h1>
 
+<img src="<?php echo $_SESSION["user_image"] ?>" alt="profile pic" style="width:100%">
+
   <h1>Profile Picture</h1>
   </div>
 </div>
